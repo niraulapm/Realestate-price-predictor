@@ -1,5 +1,5 @@
 # Real state price predictor for Nepal 
-<hr>
+
 ## Objective
 The objective of this project is to make a simple real estate price predictor for Nepal.
 
