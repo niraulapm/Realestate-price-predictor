@@ -1,9 +1,14 @@
 # Real state price predictor for Nepal 
 <hr>
+## Objective
+The objective of this project is to make a simple real estate price predictor for Nepal.
 
+## Introduction
 The price of real state depends on location and features of the property such as number of bedrooms in the case of house. In this project, location and other features of properties put on sale is extracted from the web using python library Beautifulsoup. Further refinining of the data is done by crateing a pipeline and at the end data in .csv formatt is obtained. Different data analysis libraries and regular expression engine in python is used to do the necessary data cleaning and feature engineering. 
 
 The data is then split into train and test data. After that the data is fed into the prediction model. Finally, model is tested by test data and accuracy of the model is calcuated.
+
+## Details
 
 The detailed process is presented in steps as follows;
 
